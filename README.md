@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://aurafit-r6be.onrender.com
+View your app : https://aurafit-r6be.onrender.com
 
 ## Run Locally
 
