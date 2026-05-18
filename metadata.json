@@ -1,0 +1,8 @@
+{
+  "name": "AuraFit",
+  "description": "A comprehensive mobile fitness companion featuring AI-powered workout generation, progress tracking, and personalized coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

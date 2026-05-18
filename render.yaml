@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: aurafit
+    env: node
+    plan: free # Deploys on Render's free tier
+    buildCommand: npm install && npm run build
+    startCommand: npm run start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: GEMINI_API_KEY
+        sync: false # Set your Gemini API key in the Render dashboard
